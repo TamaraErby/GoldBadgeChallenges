@@ -1,4 +1,4 @@
-# GoldBadgeChallenges
+# Gold Badge Challenges
 
 
 ## ***1. Komodo Cafe***
